@@ -1,0 +1,39 @@
+body{background: beige;}
+
+img{
+	float: right;
+}
+
+
+h1{
+	color: black;
+	font-weight: bolder;
+	font-family: "DM sans", Arial, Verdana, serif;
+
+}
+h2{
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: "DM sans", Arial, Verdana, serif;
+
+}
+p{
+	color: black;
+	font-size: x-large;
+	float: right;
+	position: relative;
+	font-family: "DM sans", Arial, Verdana, serif;
+
+}
+p{
+	float: left;
+}
+button{
+	font-size: x-large;
+	background-color: beige;
+}
+li{
+	font-size: x-large;
+	font-family: "DM sans", Arial, Verdana, serif;
+}
